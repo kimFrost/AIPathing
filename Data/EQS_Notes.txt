@@ -1,1 +1,5 @@
 https://docs.unrealengine.com/latest/INT/Engine/AI/EnvironmentQuerySystem/QuickStart/11/index.html
+
+
+http://orfeasel.com/creating-eqs-contexts-in-c/
+https://answers.unrealengine.com/questions/164821/any-way-to-get-eqs-grid-points.html
